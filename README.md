@@ -29,7 +29,7 @@ Basic website that allows users to add/remove books from a list.
 
 ## Live Demo:
 
-[Live Demo Link](https://zeff96.github.io/awesome-book.github.io/?)
+[Live Demo Link](https://zeff96.github.io/awesome-book-es6/)
 
  ## Built With
 
@@ -60,7 +60,7 @@ Basic website that allows users to add/remove books from a list.
 ### Setup
 1- clone Repo.
 ```sh
-    git clone git@github.com:zeff96/Awesome-Book.git
+    git@github.com:zeff96/Awesome-ES6.git
 ```
 ### Install 
 2- Install npm (node pakage manager)
@@ -87,14 +87,14 @@ We use Linters for HTML/CSS to cheack this project.
 - LinkedIn: [zeffo96](https://www.linkedin.com/in/zeff-adeka-28060820a/)
 
 ## Future Features:
-- Add navigations 
+- Add edit option 
 - Make it responsive 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zeff96/Awesome-Book/issues).
+Feel free to check the [issues page](https://github.com/zeff96/Awesome-ES6/issues).
 
 ## Show your support
 
